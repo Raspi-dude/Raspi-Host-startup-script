@@ -6,4 +6,4 @@ So far this script will do the following:
 3. Enforce TOS
 4. Re-download the Beam MP binary to help prevent abusers who replace the real binary with their own scripts to run their own code (supports x86 and ARM)
 
-I have uploaded this script to be more transparent with my operation of Raspi Host, but you are welcome to use it for your own needs only when you ask for permission. Contact me on Discord at @raspi_dude.
+I have uploaded this script to be more transparent with my operation of Raspi Host, but you are welcome to use it privately for your own needs without permission. If you want to use this for commercial purposes, contact me on Discord at @raspi_dude.
