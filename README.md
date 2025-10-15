@@ -1,4 +1,4 @@
-This is the script used at startup for all BeamMP servers hosted on Raspi Host, which is my free Beam MP server hosting project. Check it out at https://host.raspidude.eu.org. 
+This is the script used at startup for all BeamMP servers hosted on Raspi Host, which is my free Beam MP server hosting project. Check it out at https://raspihost.org. 
 
 So far this script will do the following: 
 1. Show the Raspi Host banner
